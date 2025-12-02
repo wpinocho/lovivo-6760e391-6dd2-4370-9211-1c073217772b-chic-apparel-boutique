@@ -40,7 +40,7 @@ export const IndexUI = ({ logic }: IndexUIProps) => {
       <section className="relative min-h-[85vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="https://ptgmltivisbtvmoxwnhd.supabase.co/storage/v1/object/public/product-images/6760e391-6dd2-4370-9211-1c073217772b/silk-blouse-hero.jpg"
+            src="https://ptgmltivisbtvmoxwnhd.supabase.co/storage/v1/object/public/product-images/6760e391-6dd2-4370-9211-1c073217772b/hero-man.jpg"
             alt="New Drops Collection"
             className="w-full h-full object-cover"
           />
